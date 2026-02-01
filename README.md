@@ -20,6 +20,6 @@ This project focuses on analyzing pizza sales data using SQL to answer key busin
 ## 📈 Project Presentation
 A detailed Canva presentation including SQL queries, outputs, and insights:
 
-📄 [View Presentation](Presentation/Pizza_Sales_SQL_Analysis.pdf)
+📄 [View Presentation](https://github.com/esshabisen-ui/Pizza-Sales-SQL-Analysis/blob/main/Pizza-Sales-SQL-Analysis.pdf.pdf)
 
 ## 📂 Repository Structure
