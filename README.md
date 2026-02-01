@@ -8,7 +8,6 @@ This project focuses on analyzing pizza sales data using SQL to answer key busin
 - SQL
 - MySQL Workbench
 - MS Excel
-- Canva (for presentation)
 
 ## 📊 Key Analysis Performed
 - Total orders and total revenue analysis
@@ -18,7 +17,7 @@ This project focuses on analyzing pizza sales data using SQL to answer key busin
 - Cumulative revenue and percentage contribution analysis
 
 ## 📈 Project Presentation
-A detailed Canva presentation including SQL queries, outputs, and insights:
+A detailed presentation including SQL queries, outputs, and insights:
 
 📄 [View Presentation](Pizza-Sales-SQL-Analysis.pdf.pdf)
 
