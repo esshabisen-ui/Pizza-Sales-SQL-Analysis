@@ -19,6 +19,7 @@ This project focuses on analyzing pizza sales data using SQL to answer key busin
 ## 📈 Project Presentation
 A detailed presentation including SQL queries, outputs, and insights:
 
-📄 [View Presentation](Pizza-Sales-SQL-Analysis.pdf.pdf)
+📥 [Download Presentation PDF] Due to file size limitations, GitHub may not preview the PDF directly.
+📄 [View Presentation](Pizza-Sales-SQL-Analysis.pdf)
 
 ## 📂 Repository Structure
